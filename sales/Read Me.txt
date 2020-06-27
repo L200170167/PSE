@@ -1,0 +1,24 @@
+Install Localhost:
+
+1. Extract File yang didownload kedalam directori:
+   C:\\wamp\www (jika menggunakan WAMPSERVER).
+   C:\\xampp\htdocs (jika menggunakan XAMPP).
+   NB: Pastikan anda mengaktifkan rewrite module pada webserver Anda.!
+2. Buat database dengan nama sesuai keinginan anda.
+3. Sesuaikan pengaturan database anda di /folderanda/application/database.php
+
+   hostname : 'localhost'
+   username : akun database anda [default = 'root']
+   password : pass database anda [default = '']
+   database : nama database yang anda buat tadi.
+
+4. Buka http://localhost/phpmyadmin. Lalu import db.sql kedalam database yang anda buat.
+   NB: file database terdapat pada folder sql
+5. Pada Browser Buka URL http://localhost/folderanda/
+6. Untuk Login ke ke Backend: http://localhost/folderanda/administrator/
+   NB: Username : admin 
+       Password : kos0ng
+7. Selesai.  
+
+
+-Semoga Bermanfaat-

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<humans>
+<!-- MASTER MENU -->
+<menu><id>Home</id><s>0</s><t>s</t><i>fa fa-home</i><n>Home</n><l>?p=Home</l></menu>
+<menu><id>Kontak</id><s>0</s><t>s</t><i>fa fa-home</i><n>Kontak</n><l>?p=Kontak</l></menu>
+
+<!-- MASTER MENU -->
+</humans>
